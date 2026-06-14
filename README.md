@@ -13,4 +13,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LittleViewer&bg_color=1a1b26&color=73daca&line=7aa2f7&point=ff9e64&area=true&hide_border=true" width="97%" alt="Graphique d'activité" />
 </p>
 
-![Neofetch de mon GitHub](https://github-readme-terminal.vercel.app/api?user=LittleViewer&theme=matrix)
+![Mon réseau Git](https://github-readme-activity-graph.vercel.app/graph?username=LittleViewer&theme=react-dark&bg_color=0d1117&hide_border=true)
