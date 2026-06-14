@@ -13,7 +13,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LittleViewer&bg_color=1a1b26&color=73daca&line=7aa2f7&point=ff9e64&area=true&hide_border=true" width="97%" alt="Graphique d'activité" />
 </p>
 
-<h3 align="center">📈 Analyses Détaillées</h3>
-<p align="center">
-  <img src="github-metrics.svg" width="97%" alt="Mes Métriques" />
-</p>
+![Mon GitHub en 3D](https://github-cube-sigmar.vercel.app/api/cube?username=LittleViewer&theme=dark)
