@@ -3,6 +3,10 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LittleViewer&theme=dark)
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleViewer&layout=compact&theme=radical)
 ![Mes Métriques](github-metrics.svg)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <!--
 **LittleViewer/LittleViewer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
