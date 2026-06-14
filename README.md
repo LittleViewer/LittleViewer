@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=LittleViewer&show_icons=true&theme=radical)
+![Mes Métriques](github-metrics.svg)
 <!--
 **LittleViewer/LittleViewer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
