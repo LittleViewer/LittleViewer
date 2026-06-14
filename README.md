@@ -1,7 +1,11 @@
 ## Hi there 👋
 ![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=LittleViewer&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LittleViewer&theme=dark)
+
+
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleViewer&layout=compact&theme=radical)
+![Graphique d'activité](https://github-readme-activity-graph.vercel.app/graph?username=LittleViewer&theme=react-dark)
+
 ![Mes Métriques](github-metrics.svg)
 
 <!--
