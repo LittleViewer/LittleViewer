@@ -13,4 +13,8 @@
 <img(https://github-readme-activity-graph.vercel.app/graph?username=LittleViewer&theme=react-dark&bg_color=0d1117&hide_border=true)/>
 </p>
 
-![Météo du terminal](https://wttr.in/Strasbourg_2_dark.png?lang=fr)
+![Mes heures de commit](https://github-readme-stats.vercel.app/api/gist?username=LittleViewer&id=YOUR_GIST_ID&theme=react-dark)
+![Activité horaire](https://github-profile-summary-cards.vercel.app/api/cards/commit-program-by-week?username=LittleViewer&theme=solarized_dark)
+![Radar de compétences](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LittleViewer&theme=zenburn)
+![Statut de ma batterie](https://progress-bar.dev/78/?title=Mana&width=400&color=00ff00)
+![Flux de code](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LittleViewer&theme=nord)
