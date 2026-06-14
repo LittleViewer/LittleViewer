@@ -1,8 +1,6 @@
 name: Metrics
 on:
-  # Se met à jour toutes les 12 heures
   schedule: [{cron: "0 */12 * * *"}]
-  # Permet de lancer la mise à jour manuellement
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
@@ -14,11 +12,10 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }} # Utilise le token interne pour le push
 
-          # Configuration du layout
           user: LittleViewer
           template: classic
           base: header, activity, community, repositories, metadata
           
-          # Plugin pour voir l'activité des commits en détail
           plugin_lines: yes
