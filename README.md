@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-![Mon réseau Git](https://github-readme-activity-graph.vercel.app/graph?username=LittleViewer&theme=react-dark&bg_color=0d1117&hide_border=true)
+<img(https://github-readme-activity-graph.vercel.app/graph?username=LittleViewer&theme=react-dark&bg_color=0d1117&hide_border=true)/>
 </p>
 
 ![Météo du terminal](https://wttr.in/Geneve_2_dark.png?lang=fr)
