@@ -5,6 +5,7 @@
 
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleViewer&layout=compact&theme=radical)
 ![Graphique d'activité](https://github-readme-activity-graph.vercel.app/graph?username=LittleViewer&theme=react-dark)
+![Stats GitHub de Little](https://github-readme-stats.vercel.app/api?username=LittleViewer&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true)
 
 ![Mes Métriques](github-metrics.svg)
 
