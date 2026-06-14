@@ -1,20 +1,17 @@
 <h2 align="center">📊 Tableau de Bord d'Activité</h2>
 
+<!-- Le graphique réseau Git (Plein écran) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LittleViewer&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true" width="48%" alt="Stats GitHub de Little" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleViewer&layout=compact&theme=tokyonight" width="48%" alt="Top Langages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LittleViewer&theme=react-dark&bg_color=0d1117&hide_border=true" width="98%" alt="Mon réseau Git" />
 </p>
 
+<!-- Le radar de compétences + Les stats d'heures de commit (Côte à côte) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LittleViewer&theme=tokyonight" width="97%" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LittleViewer&theme=tokyonight" width="48%" alt="Radar de compétences" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-program-by-week?username=LittleViewer&theme=tokyonight" width="48%" alt="Activité horaire" />
 </p>
 
+<!-- La météo du terminal en ASCII Art (Centrée et propre) -->
 <p align="center">
-<img(https://github-readme-activity-graph.vercel.app/graph?username=LittleViewer&theme=react-dark&bg_color=0d1117&hide_border=true)/>
+  <img src="https://wttr.in/Strasbourg_2_dark.png?lang=fr" alt="Météo du terminal" />
 </p>
-
-![Mes heures de commit](https://github-readme-stats.vercel.app/api/gist?username=LittleViewer&id=YOUR_GIST_ID&theme=react-dark)
-![Activité horaire](https://github-profile-summary-cards.vercel.app/api/cards/commit-program-by-week?username=LittleViewer&theme=solarized_dark)
-![Radar de compétences](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LittleViewer&theme=zenburn)
-![Statut de ma batterie](https://progress-bar.dev/78/?title=Mana&width=400&color=00ff00)
-![Flux de code](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LittleViewer&theme=nord)
