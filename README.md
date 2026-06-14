@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LittleViewer&bg_color=1a1b26&color=73daca&line=7aa2f7&point=ff9e64&area=true&hide_border=true" width="97%" alt="Graphique d'activité" />
+![Mon réseau Git](https://github-readme-activity-graph.vercel.app/graph?username=LittleViewer&theme=react-dark&bg_color=0d1117&hide_border=true)
 </p>
 
-![Mon réseau Git](https://github-readme-activity-graph.vercel.app/graph?username=LittleViewer&theme=react-dark&bg_color=0d1117&hide_border=true)
+![Météo du terminal](https://wttr.in/Geneve_2_dark.png?lang=fr)
