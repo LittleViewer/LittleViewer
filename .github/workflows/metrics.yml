@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Configuration du layout
-          user: TON_PSEUDO
+          user: LittleViewer
           template: classic
           base: header, activity, community, repositories, metadata
           
